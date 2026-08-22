@@ -8,7 +8,7 @@
 
 <!-- ======================= HEADER BANNER ======================= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5ED&height=200&section=header&text=Amit%20Mundkar&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=A%20passionate%20developer%20from%20India&descAlignY=58&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5ED&height=200&section=header&text=Amit%20Mundkar&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=A%20passionate%20developer%20from%&descAlignY=58&descSize=18"
   width="100%"
   alt="Amit Mundkar"
 />
@@ -18,7 +18,7 @@
 
 <a href="https://github.com/amitmundkar">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=560&lines=Building+things+for+web+and+mobile;Always+learning+something+new;Open+to+collaboration+%F0%9F%A4%9D"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=560&lines=Building+things+for+web+and+mobile;Always+learning+something+new"
     alt="What I do"
   />
 </a>
@@ -39,7 +39,7 @@
 <!-- ======================= ABOUT ======================= -->
 ## 🙋‍♂️ About Me
 
-I'm Amit, a developer from India who enjoys building things that people actually use — mostly across web, mobile, and cloud. I like picking up a new tool by shipping something small with it, and I'm always happy to pair up on an interesting problem.
+I'm Amit, a developer who enjoys building things that people actually use — mostly across web, mobile, and cloud. I like picking up a new tool by shipping something small with it, and I'm always happy to pair up on an interesting problem.
 
 - 🌱 Currently deepening my work with **Flutter**, **React**, and **cloud infrastructure**
 - 🧩 I enjoy turning rough ideas into working prototypes
